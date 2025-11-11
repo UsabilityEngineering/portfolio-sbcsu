@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+Im Sage Becker and this is my UX portfolio. I am a computer science major at CSU and you will find my UX journals linked below!
 
 ## UX Team Project
 
@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Google Calendar](journal/)
